@@ -1,1 +1,2 @@
-# geradorDeSenha
+# Gerador De Senha
+<p>O projeto consiste no desenvolvimento de um gerador de senhas seguras que utiliza uma ampla gama de caracteres, incluindo letras maiúsculas (ABCDEFGHIJKLMNOPQRSTUVWXYZ), letras minúsculas (abcdefghijklmnopqrstuvwxyz), dígitos (0123456789) e caracteres especiais (-=/;.?!@#$%&*). O objetivo é fornecer uma ferramenta eficiente e confiável para a criação de senhas robustas que possam ser utilizadas em diversas plataformas e serviços online.</p>
